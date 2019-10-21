@@ -1,0 +1,123 @@
+﻿Tell us about your open life science project!
+
+
+Your project doesn’t have to be technical — it can be a curriculum (open educational resource), an open data project or report, an open source software project, open publication, community/team culture movements, or anything else that:
+
+
+1. supports openness in life science. 
+2. has something to work on (a feature, module, or minimum viable product) during the program
+3. allows and welcomes contributions by others
+
+
+Whether your project is just an idea at this stage or something that’s been running for years, all applications are welcome. 
+Primary Contact
+First name: <Your answer>
+
+
+Last name: <Your answer>
+
+
+Affiliation: <Your answer>
+ 
+Email: <Your answer>
+
+
+Country: <Your answer>
+
+
+Preferred pronouns: <Your answer>
+
+
+GitHub ID (optional): <Your answer>
+
+
+Twitter ID (optional): <Your answer>
+
+
+Group Members
+If you’re applying as a group, list all your group members here with the following info: Name / Email / Location / GitHub ID / Twitter ID / Affiliation
+<Your answer>
+Your project
+Project or Organization Name: 
+
+
+
+
+Description of the project
+max. 200 words
+<Your answer>
+
+
+
+
+What problem(s) are you solving with this project?
+max. 200 words
+<Your answer>
+
+
+
+
+What concrete achievements do you want to accomplish during the program (January - April 2020)? 
+max. 200 words
+<Your answer>
+
+
+
+
+What is the current stage of your project or work?
+<select one>
+1. I have a great idea
+2. Working towards a first prototype
+3. Just launched first prototype
+4. Working on new release / feature on existing prototype
+5. Maintaining work on existing prototype
+
+
+
+
+Where would you like to be after the program (April 2020)? 
+<select one>
+1. I have a great idea
+2. Working towards a first prototype
+3. Just launched first prototype
+4. Working on new release / feature on existing prototype
+5. Maintaining work on existing prototype
+Open Science
+What inspires you to work openly in life science? 
+max. 200 words
+<Your answer>
+
+
+What challenges have you faced in working in open science?
+max. 200 words
+<Your answer>
+Open Life Science program
+What are you hoping to learn during this program?
+max. 200 words
+<Your answer>
+
+
+
+
+What do you expect from a mentor?
+max. 200 words
+<Your answer>
+
+
+
+
+Do you speak any languages other than English?
+If yes, please list them.
+<Your answer>
+
+
+
+
+Which time zone you are in?
+You can find yours here: https://www.timeanddate.com/time/zones/ 
+<Your answer>
+
+
+What times of the day are you usually available to participate in video calls?
+If you are likely to have internet connectivity issues you are still welcome to apply; we will endeavour to find ways to make this workable and will record all calls.
+<Your answer>
