@@ -10,4 +10,4 @@ For other formats, please right click and "save as":
 - [rtf](https://github.com/open-life-science/2020-application-forms/raw/master/Application%20Questions.rtf)
 - [Text](https://raw.githubusercontent.com/open-life-science/2020-application-forms/master/Application%20Questions.txt)
 
-Please make a copy of these files and submit at [https://easychair.org/](https://easychair.org/
+Please make a copy of these files and submit on [easychair](https://easychair.org/)
