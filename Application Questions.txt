@@ -28,17 +28,13 @@ Country: <Your answer>
 Preferred pronouns: <Your answer>
 
 
-GitHub ID (optional): <Your answer>
-
-
-Twitter ID (optional): <Your answer>
-
-
 Group Members
-If you’re applying as a group, list all your group members here with the following info: Name / Email / Location / GitHub ID / Twitter ID / Affiliation
+If you’re applying as a group, list all your group members here with the following info: Name / Email / Location / Affiliation
 <Your answer>
 Your project
 Project or Organization Name: 
+
+
 
 
 
@@ -57,7 +53,7 @@ max. 200 words
 
 
 
-What concrete achievements do you want to accomplish during the program (January - April 2020)? 
+What concrete achievements do you want to accomplish during the program (Feb-May 2021)? 
 max. 200 words
 <Your answer>
 
@@ -75,7 +71,7 @@ What is the current stage of your project or work?
 
 
 
-Where would you like to be after the program (April 2020)? 
+Where would you like to be after the program (June 2021)? 
 <select one>
 1. I have a great idea
 2. Working towards a first prototype
@@ -113,11 +109,6 @@ If yes, please list them.
 
 
 
-Which time zone you are in?
-You can find yours here: https://www.timeanddate.com/time/zones/ 
-<Your answer>
-
-
-What times of the day are you usually available to participate in video calls?
-If you are likely to have internet connectivity issues you are still welcome to apply; we will endeavour to find ways to make this workable and will record all calls.
+Accessibility: 
+The OLS team aims to create as inclusive an environment as possible for everyone. To help us prepare effectively, please let us know if there anything we can do to facilitate your participation. This might include sign interpreters for video calls, alternative format materials, or something else. We will provide real-time captioning using otter.ai and/or Google Slides by default. This information will not be shared with application reviewers, and will not affect whether or not you are accepted to the program.
 <Your answer>
