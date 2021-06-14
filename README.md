@@ -1,6 +1,6 @@
 # OLS Application Guidelines
 
-- Call for application is open to join the fourth cohort of Open Life Science, OLS-4. Submission Deadline is July 15, 2021.
+Call for application is open to join the fourth cohort of Open Life Science, OLS-4 - **Submission Deadline is July 15, 2021**.
 
 *For any further questions, please email: [team@openlifesci.org](mailto:team@openlifesci.org).*
 
