@@ -6,6 +6,7 @@ Call for application is open to join the fourth cohort of Open Life Science, OLS
 
 ## Step 1: Register in Open Review
 
+- Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2021/Cohort_4 
 - Please **create your profile minimum 5 days before the application deadline**. For any technical problem, please reach out to the OLS team.
 - Add your name and email to receive a confirmation email and click the confirmation link sent to your email
 - Set up your profile by adding the following minimum information: (i) Personal link (Add any one link from Twitter/GitHub/Website), (ii) Your current position, start date (skip the end date to indicate your present role), (iii) Institute domain (like “openlifesci.org”), and (iv) Your institution name. You can optionally add other details, but they are not necessary for your application 
