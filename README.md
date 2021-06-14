@@ -14,7 +14,7 @@
 ## Step 2: Draft your application
 
 While you wait for a confirmation, prepare your application draft locally using the template provided below
-Please right click to download the file format of your choice.
+Please right click to save/download the file format of your choice.
 - [MarkDown template to download](https://github.com/open-life-science/application-forms/raw/master/OLS-4-application-template.md) or [copy the raw file](https://raw.githubusercontent.com/open-life-science/application-forms/master/OLS-4-application-template.md)
 - [DOCX template](https://github.com/open-life-science/application-forms/raw/master/OLS-4-application-template.docx)
 - [ODT template](https://github.com/open-life-science/application-forms/raw/master/OLS-4-application-template.odt)
