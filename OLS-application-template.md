@@ -1,4 +1,4 @@
-### **Call for application to join the fourth cohort of Open Life Science, OLS-4**
+### **Call for application to join the fourth cohort of Open Life Science, OLS-5**
 
 _For any further questions, please email: [team@openlifesci.org](mailto:team@openlifesci.org)**.**_
 
@@ -80,7 +80,7 @@ _What problem(s) are you solving with this project? Please describe in a maximum
 
 ***Achievements**
 
-_What concrete achievements do you want to accomplish during the OLS-4 program? Please describe in a maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
+_What concrete achievements do you want to accomplish during the OLS program? Please describe in a maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
 
 <your answer>
 
@@ -96,7 +96,7 @@ _What is the current status of your project or work? **Choose one option**_
 
 ***Goal**
 
-_Where would you like to be after the OLS-4 program? **Choose one option**_
+_Where would you like to be after the OLS program? **Choose one option**_
 
 *   I have a great idea
 *   Working towards a first prototype
@@ -155,12 +155,12 @@ _Are you affiliated with any of these organisations? **Choose one option**_
 
 ## **Step 3: Submit your application via the Open Review form**
 
-1. Visit the submission page: [https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2021/Cohort_4](https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2021/Cohort_4) 
-2. Click the “**Open Life Science 2021 Cohort 4 Submission**” link
+1. Visit the submission page: [https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2021/Cohort_4](https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2021/Cohort_5) 
+2. Click the “**Open Life Science 2021 Cohort 5 Submission**” link
 3. Transfer the content from your draft application to the Open Review form 
 4. When you’re ready, click “**submit**” 
 
 **All the best from the OLS team!**
 
-_License: CC BY 4.0, Open Life Science (OLS-4), 2021_
+_License: CC BY 4.0, Open Life Science (OLS-5), 2021_
 

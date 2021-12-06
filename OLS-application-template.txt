@@ -1,11 +1,11 @@
 ﻿http://openlifesci.org 
-Open Life Science 2021
-OLS-4 Application Guide
+Open Life Science 2022
+OLS Application Guide
 	  
 
 	
 
-Call for application to join the fourth cohort of Open Life Science, OLS-4
+Call for application to join the fourth cohort of Open Life Science, OLS-5
 For any further questions, please email: team@openlifesci.org.
 
 
@@ -28,7 +28,7 @@ Please create your profile minimum 5 days before the application deadline so any
    5. You will receive an email saying “Your OpenReview profile has been successfully created. Please allow up to 12 hours before the profile is activated.” (it takes only a few hours before a profile is activated)
    6. While you wait for a confirmation, you can start drafting your application locally using the template provided below
 Step 2: Template to prepare your application draft
-Submission Deadline: July 15, 2021 11:59pm AOE, * denotes a required field
+Submission Deadline: January 15, 2022 11:59pm AOE, * denotes a required field
 *Title
 Project Name. Please note that your project doesn’t have to be technical — it can be a curriculum (open educational resource), an open data project, documentation or report, an open source software project, open publication, community building, team culture movements, or anything else that supports openness in research communities, have something to work on (a feature, module, or minimum viable product) during the program and allows and welcomes contributions by others. Whether your project is just an idea at this stage or something that’s been running for years, all applications are welcome.
 <your answer>
@@ -75,7 +75,7 @@ What problem(s) are you solving with this project? Please describe in a maximum 
 
 
 *Achievements
-What concrete achievements do you want to accomplish during the OLS-4 program? Please describe in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).
+What concrete achievements do you want to accomplish during the OLS program? Please describe in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).
 <your answer>
 
 
@@ -91,7 +91,7 @@ What is the current status of your project or work? Choose one option
 
 
 *Goal
-Where would you like to be after the OLS-4 program? Choose one option
+Where would you like to be after the OLS program? Choose one option
    * I have a great idea
    * Working towards a first prototype
    * Just launched first prototype
@@ -139,9 +139,9 @@ Are you affiliated with any of these organisations? Choose one option
 
 
 Step 3: Submit your application via the Open Review form
-   1. Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2021/Cohort_4 
-   2. Click the “Open Life Science 2021 Cohort 4 Submission” link
+   1. Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2022/Cohort_5
+   2. Click the “Open Life Science 2022 Cohort 5 Submission” link
    3. Transfer the content from your draft application to the Open Review form   
    4. When you’re ready, click “submit” 
 All the best from the OLS team!
-License: CC BY 4.0, Open Life Science (OLS-4), 2021,
+License: CC BY 4.0, Open Life Science (OLS), 2021-2022,
