@@ -13,12 +13,12 @@ _Please create your profile minimum 5 days before the application deadline so an
     *   Personal link (Add any one link from Twitter/GitHub/Website) 
     *   Add your current position, start date (skip the end date to indicate your present role), institute domain (like “openlifesci.org”) and your institution name 
 4. You can optionally add other details, but they are not necessary for your application 
-5. You will receive an email saying _“Your OpenReview profile has been successfully created. Please allow up to 12 hours before the profile is activated.” (**it takes only a few hours before a profile is activated**)
+5. You will receive an email saying “Your OpenReview profile has been successfully created. Please allow up to 12 hours before the profile is activated.” (**it takes only a few hours before a profile is activated**)
 6. While you wait for a confirmation, you can start drafting your application locally using the template provided below
 
 ## **Step 2: Template to prepare your application draft**
 
-**Submission Deadline: July 15, 2021 11:59pm AOE, *denotes a required field***
+**Submission Deadline: 15 January 2022 11:59pm AOE, *denotes a required field***
 
 ***Title**
 
@@ -156,5 +156,5 @@ _Are you affiliated with any of these organisations? **Choose one option**_
 
 **All the best from the OLS team!**
 
-_License: CC BY 4.0, Open Life Science (OLS-5), 2021_
+_License: CC BY 4.0, Open Life Science (OLS-5), 2021-2022_
 
