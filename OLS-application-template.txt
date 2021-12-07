@@ -1,9 +1,8 @@
-﻿http://openlifesci.org 
 Open Life Science 2022
-OLS Application Guide
-	  
+http://openlifesci.org 
+--
 
-	
+OLS Application Guide
 
 Call for application to join the fourth cohort of Open Life Science, OLS-5
 For any further questions, please email: team@openlifesci.org.
@@ -143,5 +142,7 @@ Step 3: Submit your application via the Open Review form
    2. Click the “Open Life Science 2022 Cohort 5 Submission” link
    3. Transfer the content from your draft application to the Open Review form   
    4. When you’re ready, click “submit” 
+
 All the best from the OLS team!
+
 License: CC BY 4.0, Open Life Science (OLS), 2021-2022,
