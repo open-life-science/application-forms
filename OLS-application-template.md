@@ -18,7 +18,7 @@ _Please create your profile minimum 5 days before the application deadline so an
 
 ## **Step 2: Template to prepare your application draft**
 
-**Submission Deadline: 15 January 2022 11:59pm AOE, *denotes a required field***
+**Submission Deadline: 15 January 2022 11:59pm AOE.** ***denotes a required field.**
 
 ***Title**
 
