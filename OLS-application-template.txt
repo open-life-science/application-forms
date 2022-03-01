@@ -1,10 +1,10 @@
 Open Life Science 2022
-http://openlifesci.org 
+http://openlifesci.org
 --
 
 OLS Application Guide
 
-Call for application to join the fourth cohort of Open Life Science, OLS-5
+Call for application to join the next cohort of Open Life Science
 For any further questions, please email: team@openlifesci.org.
 
 
@@ -14,6 +14,8 @@ Table of Content
 Step 1: Register in Open Review        1
 Step 2: Template to prepare your application draft        2
 Step 3: Submit your application via the Open Review form        7
+
+--
 Step 1: Register in Open Review
 Please create your profile minimum 5 days before the application deadline so any technical problem can be addressed by either the OLS or Open Review team.
 
@@ -21,9 +23,9 @@ Please create your profile minimum 5 days before the application deadline so any
 1. Add your name and email
 2. Click the confirmation link in your email
 3. Set up your profile by adding the following minimum information
-   * Personal link (Add any one link from Twitter/GitHub/Website)   
-   * Add the current position, start date (skip the end date to indicate your present role), institute domain (like “openlifesci.org”) and your institution name   
-   4. You can optionally add other details, but they are not necessary for your application 
+   * Personal link (Add any one link from Twitter/GitHub/Website)
+   * Add the current position, start date (skip the end date to indicate your present role), institute domain (like “openlifesci.org”) and your institution name
+   4. You can optionally add other details, but they are not necessary for your application
    5. You will receive an email saying “Your OpenReview profile has been successfully created. Please allow up to 12 hours before the profile is activated.” (it takes only a few hours before a profile is activated)
    6. While you wait for a confirmation, you can start drafting your application locally using the template provided below
 Step 2: Template to prepare your application draft
@@ -118,6 +120,11 @@ What do you expect from a mentor? Please respond in a maximum of 200 words. You 
 <your answer>
 
 
+*Other OLS applications
+Have you applied to OLS before, or are you applying as an author on more than one project in this round of applications? If yes, please share the project name and which round(s) you applied to OLS in, e.g. "OLS-5, Open Science Writing Guide".
+<your answer>
+
+
 *Accessibility
 The OLS team aims to create as inclusive an environment as possible for everyone. To help us prepare effectively, please let us know if there is anything we can do to facilitate your participation. This might include sign interpreters for video calls, alternative format materials, or something else. We will provide real-time captioning using otter.ai and/or Google Slides by default. This information will not be shared with application reviewers, and will not affect whether or not you are accepted to the program.
 <your answer>
@@ -133,6 +140,7 @@ Are you affiliated with any of these organisations? Choose one option
    * EOSC-Life
    * The Turing Way/The Alan Turing Institute
    * TU Delft - Faculty of Applied Sciences
+   * CZI
    * Not sure
    * None
 
@@ -140,8 +148,8 @@ Are you affiliated with any of these organisations? Choose one option
 Step 3: Submit your application via the Open Review form
    1. Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2022/Cohort_5
    2. Click the “Open Life Science 2022 Cohort 5 Submission” link
-   3. Transfer the content from your draft application to the Open Review form   
-   4. When you’re ready, click “submit” 
+   3. Transfer the content from your draft application to the Open Review form
+   4. When you’re ready, click “submit”
 
 All the best from the OLS team!
 
