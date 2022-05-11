@@ -1,7 +1,9 @@
 # OLS Application Guidelines
 
-Call for application is open to join the fourth cohort of Open Life Science, OLS-5 - **Submission Deadline is January 15 2022**. 
-This is a hard deadline and we will not to extending it due to tight timeline for review and selection. Please get in touch with the OLS team if you have concerns regarding this deadline or may need some support.
+We will launch call for OLS-6 in mid-2022. 
+
+---
+The application deadline is a hard deadline and we will not to extending it due to tight timeline for review and selection. Please get in touch with the OLS team if you have concerns regarding this deadline or may need some support.
 
 *For any further questions, please email: [team@openlifesci.org](mailto:team@openlifesci.org).*
 
