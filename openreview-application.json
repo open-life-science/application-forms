@@ -1,0 +1,156 @@
+{
+    "title": {
+        "description": "Project Name. Please note that your project doesn’t have to be technical — it can be a curriculum (open educational resource), an open data project, documentation or report, an open source software project, open publication, community building, team culture movements, or anything else that supports openness in research communities, have something to work on (a feature, module, or minimum viable product) during the program and allows and welcomes contributions by others. Whether your project is just an idea at this stage or something that’s been running for years, all applications are welcome.",
+        "order": 1,
+        "value-regex": ".{1,250}",
+        "required": true
+    },
+    "TL;DR": {
+        "description": "\"Too Long; Didn't Read\": a short sentence describing your proposal",
+        "order": 2,
+        "value-regex": "[^\\n]{0,250}",
+        "required": false
+    },
+    "authors": {
+        "description": "Comma separated list of author names.",
+        "order": 3,
+        "values-regex": "[^;,\\n]+(,[^,\\n]+)*",
+        "required": true,
+        "hidden": true
+    },
+    "authorids": {
+        "description": "Search author profile by first, middle and last name or email address. If the profile is not found, you can add the author by completing first, middle, and last names as well as the author email address.",
+        "order": 4,
+        "values-regex": "~.*|([a-z0-9_\\-\\.]{1,}@[a-z0-9_\\-\\.]{2,}\\.[a-z]{2,},){0,}([a-z0-9_\\-\\.]{1,}@[a-z0-9_\\-\\.]{2,}\\.[a-z]{2,})",
+        "required": true
+    },
+    "country": {
+        "order": 5,
+        "value-regex": ".{1,500}",
+        "description": "Country of residence. Comma-separated list of countries, if different for different authors.",
+        "required": true,
+        "markdown": true
+    },
+    "affiliation": {
+        "order": 6,
+        "value-regex": ".{1,500}",
+        "description": "Please provide the affiliation under which your project will be developed. Comma-separated list of affiliation, if different for different authors.",
+        "required": true,
+        "markdown": true
+    },
+    "pronouns": {
+        "order": 7,
+        "value-regex": ".{1,500}",
+        "description": "Please share preferred pronouns (optional). Comma-separated list of pronouns, if different for different authors.",
+        "required": false,
+        "markdown": true
+    },
+    "keywords": {
+        "description": "Comma-separated list of keywords that best describe the research and interest areas of your project.",
+        "order": 8,
+        "values-regex": "(^$)|[^;,\\n]+(,[^,\\n]+)*"
+    },
+    "project": {
+        "description": "Describe your project in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
+        "order": 9,
+        "value-regex": "[\\S\\s]{1,5000}",
+        "required": true,
+        "markdown": true
+    },
+    "problem": {
+        "description": "What problem(s) are you solving with this project? Please describe in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
+        "order": 10,
+        "value-regex": "[\\S\\s]{1,5000}",
+        "required": true,
+        "markdown": true
+    },
+    "achievements": {
+        "description": "What concrete achievements do you want to accomplish during the OLS-4 program? Please describe in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
+        "order": 11,
+        "value-regex": "[\\S\\s]{1,5000}",
+        "required": true,
+        "markdown": true
+    },
+    "status": {
+        "description": "What is the current status of your project or work?",
+        "value-radio": [
+            "I have a great idea",
+            "Working towards a first prototype",
+            "Just launched first prototype",
+            "Working on new release/feature on an existing prototype",
+            "Maintaining work on an existing prototype"
+        ],
+        "order": 12,
+        "required": true
+    },
+    "goal": {
+        "description": "Where would you like to be after the OLS-4 program?",
+        "value-radio": [
+            "I have a great idea",
+            "Working towards a first prototype",
+            "Just launched first prototype",
+            "Working on new release/feature on an existing prototype",
+            "Maintaining work on an existing prototype"
+        ],
+        "order": 13,
+        "required": true
+    },
+    "open": {
+        "description": "What inspires you to work openly in research? Please respond in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
+        "order": 14,
+        "value-regex": "[\\S\\s]{1,5000}",
+        "required": true,
+        "markdown": true
+    },
+    "challenges": {
+        "description": "What challenges have you faced in working in open science? Please respond in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
+        "order": 15,
+        "value-regex": "[\\S\\s]{1,5000}",
+        "required": true,
+        "markdown": true
+    },
+    "learning": {
+        "description": "What are your learning goals in the Open Life Science program? Please respond in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
+        "order": 16,
+        "value-regex": "[\\S\\s]{1,5000}",
+        "required": true,
+        "markdown": true
+    },
+    "mentor": {
+        "description": "What do you expect from a mentor? Please respond in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
+        "order": 17,
+        "value-regex": "[\\S\\s]{1,5000}",
+        "required": true,
+        "markdown": true
+    },
+    "previous-applications": {
+        "description": "Have you applied to OLS before, or are you applying as an author on more than one project in this round of applications? If yes, please share the project name and which round(s) you applied to OLS in, e.g. \"OLS-5, Open Science Writing Guide\".",
+        "order": 18,
+        "value-regex": "[\\S\\s]{1,5000}",
+        "required": true
+    }, 
+    "accessibility": {
+        "description": "The OLS team aims to create as inclusive an environment as possible for everyone. To help us prepare effectively, please let us know if there is anything we can do to facilitate your participation. This might include sign interpreters for video calls, alternative format materials, or something else. We will provide real-time captioning using otter.ai and/or Google Slides by default. This information will not be shared with application reviewers, and will not affect whether or not you are accepted to the program.",
+        "order": 19,
+        "value-regex": "[\\S\\s]{1,5000}",
+        "required": true
+    },
+    "language": {
+        "description": "What spoken language do you prefer for your mentoring calls?",
+        "order": 20,
+        "value-regex": "[\\S\\s]{1,5000}",
+        "required": true
+    },
+    "scheme": {
+        "description": "Are you affiliated with any of these organisations?",
+        "value-radio": [
+            "EOSC-Life",
+            "The Turing Way/The Alan Turing Institute",
+            "TU Delft",
+            "Not sure",
+            "None"
+        ],
+        "order": 21,
+        "required": true
+    }
+}
