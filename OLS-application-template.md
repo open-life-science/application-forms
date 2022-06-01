@@ -135,28 +135,28 @@ _The OLS team aims to create as inclusive an environment as possible for everyon
 
 ***Language**
 
-_What spoken language do you prefer for your mentoring calls?_
+_What language do you prefer for your communication during the mentoring calls?_
 
 <your answer>
 
 ***Scheme**
 
-_Are you affiliated with any of these organisations? **Choose one option**_
+_Are you affiliated with or funded by any of these organisations?_ **Choose one option**_
 
-*   EOSC-Life
-*   The Turing Way/The Alan Turing Institute
-*   TU Delft - Faculty of Applied Sciences
-*   CZI
-*   Not sure
-*   None
+* EOSC-Life/ELIXIR
+* The Turing Way/The Alan Turing Institute
+* TU Delft
+* Chan Zuckerberg Initiative grantee
+* Not sure
+* None
 
 
 ## **Step 3: Submit your application via the Open Review form**
 
-1. Visit the submission page: [https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2022/Cohort_5](https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2022/Cohort_5)
-2. Click the “**Open Life Science 2021 Cohort 5 Submission**” link
+1. Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2022/Cohort_6
+2. Click the “**Open Life Science 2021 Cohort 6 Submission**” link
 3. Transfer the content from your draft application to the Open Review form
-4. When you’re ready, click “**submit**”
+4. When you’re ready, click “**submit**”!
 
 **All the best from the OLS team!**
 
