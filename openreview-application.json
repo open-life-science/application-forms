@@ -1,3 +1,16 @@
+* Remove Submission Options: abstract, pdf
+----
+* Homepage Override:
+{
+    "title": "Open Life Science 2022",
+    "subtitle": "Call for application to join the fourth cohort of Open Life Science, OLS-6",
+    "location": "Online",
+    "deadline": "Submission Deadline: July 07, 2022 11:59pm AOE",
+    "website": "https://openlifesci.org/",
+    "instructions": "<h1>Application Submission Guidelines</h1><li>To create your application draft, please use the <a href=\"https://github.com/open-life-science/application-forms\">OLS application guidelines and template</a></li><li>Please register on Open Review few days before your submission to allow activation of your Open Review profile</li><li>For more information, please visit the <a href=\"https://openlifesci.org\">Open Life Science website</a></li></br>"
+}
+----
+Additional Submission Options:
 {
     "title": {
         "description": "Project Name. Please note that your project doesn’t have to be technical — it can be a curriculum (open educational resource), an open data project, documentation or report, an open source software project, open publication, community building, team culture movements, or anything else that supports openness in research communities, have something to work on (a feature, module, or minimum viable product) during the program and allows and welcomes contributions by others. Whether your project is just an idea at this stage or something that’s been running for years, all applications are welcome.",
@@ -65,7 +78,7 @@
         "markdown": true
     },
     "achievements": {
-        "description": "What concrete achievements do you want to accomplish during the OLS-4 program? Please describe in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
+        "description": "What concrete achievements do you want to accomplish during the OLS-6 program? Please describe in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
         "order": 11,
         "value-regex": "[\\S\\s]{1,5000}",
         "required": true,
@@ -84,7 +97,7 @@
         "required": true
     },
     "goal": {
-        "description": "Where would you like to be after the OLS-4 program?",
+        "description": "Where would you like to be after the OLS-6 program?",
         "value-radio": [
             "I have a great idea",
             "Working towards a first prototype",
@@ -128,7 +141,7 @@
         "order": 18,
         "value-regex": "[\\S\\s]{1,5000}",
         "required": true
-    }, 
+    },
     "accessibility": {
         "description": "The OLS team aims to create as inclusive an environment as possible for everyone. To help us prepare effectively, please let us know if there is anything we can do to facilitate your participation. This might include sign interpreters for video calls, alternative format materials, or something else. We will provide real-time captioning using otter.ai and/or Google Slides by default. This information will not be shared with application reviewers, and will not affect whether or not you are accepted to the program.",
         "order": 19,
@@ -136,17 +149,18 @@
         "required": true
     },
     "language": {
-        "description": "What spoken language do you prefer for your mentoring calls?",
+        "description": "What language do you prefer for your communication during the mentoring calls?",
         "order": 20,
         "value-regex": "[\\S\\s]{1,5000}",
         "required": true
     },
     "scheme": {
-        "description": "Are you affiliated with any of these organisations?",
+        "description": "Are you affiliated with or funded by any of these organisations?",
         "value-radio": [
-            "EOSC-Life",
+            "EOSC-Life/ELIXIR",
             "The Turing Way/The Alan Turing Institute",
             "TU Delft",
+            "Chan Zuckerberg Initiative grantee",
             "Not sure",
             "None"
         ],
