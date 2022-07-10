@@ -64,7 +64,7 @@ _Comma-separated list of keywords that best describe the research and interest a
 
 _Describe your project in a maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
 
-&lt;your answer>
+<your answer>
 
 ***Problem**
 
