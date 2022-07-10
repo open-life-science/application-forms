@@ -122,8 +122,10 @@ _What do you expect from a mentor? Please respond in a maximum of 200 words. You
 
 <your answer>
 
-*Other OLS applications
+***Other OLS applications**
+
 Have you applied to OLS before, or are you applying as an author on more than one project in this round of applications? If yes, please share the project name and which round(s) you applied to OLS in, e.g. "OLS-5, Open Science Writing Guide".
+
 <your answer>
 
 
