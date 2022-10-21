@@ -4,14 +4,14 @@ Application for Open Life Science's sixth cohort, OLS-6, is Open.
 
 The Application deadline is 7 July 2022. 
 This is a hard deadline and we will not to extending it due to tight timeline for review and selection. 
-Please get in touch with the OLS team if you have concerns regarding this deadline or may need some support.
+Please get in touch with the [OLS team](mailto:team@openlifesci.org) if you have concerns regarding this deadline or may need some support.
 
 *For any further questions, please email: [team@openlifesci.org](mailto:team@openlifesci.org).*
 
 ## Step 1: Register in Open Review
 
 - Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2022/Cohort_6 
-- Please **create your profile minimum 5 days before the application deadline**. For any technical problem, please reach out to the OLS team.
+- Please **create your profile minimum 5 days before the application deadline**. For any technical problem, please reach out to the [OLS team](mailto:team@openlifesci.org).
 - Add your name and email to receive a confirmation email and click the confirmation link sent to your email
 - Set up your profile by adding the following minimum information: (i) Personal link (Add any one link from Twitter/GitHub/Website), (ii) Your current position, start date (skip the end date to indicate your present role), (iii) Institute domain (like “openlifesci.org”), and (iv) Your institution name. You can optionally add other details, but they are not necessary for your application 
 - You will receive an email saying “Your OpenReview profile has been successfully created. Please allow up to 12 hours before the profile is activated.” (it takes only a few hours before a profile is activated)
