@@ -153,11 +153,11 @@ _Are you affiliated with or funded by any of these organisations?_ **Choose one 
 
 ## **Step 3: Submit your application via the Open Review form**
 
-1. Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2022/Cohort_6
-2. Click the “**Open Life Science 2021 Cohort 6 Submission**” link
+1. Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2023/Cohort_7
+2. Click the “**Open Life Science 2021 Cohort Submission**” link
 3. Transfer the content from your draft application to the Open Review form
 4. When you’re ready, click “**submit**”!
 
 **All the best from the OLS team!**
 
-_License: CC BY 4.0, Open Life Science (OLS-5), 2021-2022_
+_License: CC BY 4.0, Open Life Science (OLS-5), 2023_
