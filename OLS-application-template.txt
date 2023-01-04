@@ -51,7 +51,7 @@ Country of residence. Comma-separated list of countries, if different for differ
 
 
 *Affiliation
-Please provide the affiliation under which your project will be developed. Comma-separated list of affiliation, if different for different authors.
+Please provide the affiliation under which your project will be developed. For independent research please use - Independent. Comma-separated list of affiliation, if different for different authors.
 <your answer>
 
 
