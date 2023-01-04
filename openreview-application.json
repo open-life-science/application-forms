@@ -3,9 +3,9 @@
 * Homepage Override:
 {
     "title": "Open Life Science 2022",
-    "subtitle": "Call for application to join the fourth cohort of Open Life Science, OLS-6",
+    "subtitle": "Call for application to join the fourth cohort of Open Life Science, OLS-7",
     "location": "Online",
-    "deadline": "Submission Deadline: July 07, 2022 11:59pm AOE",
+    "deadline": "Submission Deadline: January 11, 2023 11:59pm AOE",
     "website": "https://openlifesci.org/",
     "instructions": "<h1>Application Submission Guidelines</h1><li>To create your application draft, please use the <a href=\"https://github.com/open-life-science/application-forms\">OLS application guidelines and template</a></li><li>Please register on Open Review few days before your submission to allow activation of your Open Review profile</li><li>For more information, please visit the <a href=\"https://openlifesci.org\">Open Life Science website</a></li></br>"
 }
@@ -47,7 +47,7 @@ Additional Submission Options:
     "affiliation": {
         "order": 6,
         "value-regex": ".{1,500}",
-        "description": "Please provide the affiliation under which your project will be developed. Comma-separated list of affiliation, if different for different authors.",
+        "description": "Please provide the affiliation under which your project will be developed. For independent research please use - Independent. Comma-separated list of affiliation, if different for different authors.",
         "required": true,
         "markdown": true
     },
@@ -78,7 +78,7 @@ Additional Submission Options:
         "markdown": true
     },
     "achievements": {
-        "description": "What concrete achievements do you want to accomplish during the OLS-6 program? Please describe in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
+        "description": "What concrete achievements do you want to accomplish during your participation in the OLS program? Please describe in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
         "order": 11,
         "value-regex": "[\\S\\s]{1,5000}",
         "required": true,
@@ -97,7 +97,7 @@ Additional Submission Options:
         "required": true
     },
     "goal": {
-        "description": "Where would you like to be after the OLS-6 program?",
+        "description": "Where would you like to be after your participation in the OLS program?",
         "value-radio": [
             "I have a great idea",
             "Working towards a first prototype",
@@ -137,7 +137,7 @@ Additional Submission Options:
         "markdown": true
     },
     "previous-applications": {
-        "description": "Have you applied to OLS before, or are you applying as an author on more than one project in this round of applications? If yes, please share the project name and which round(s) you applied to OLS in, e.g. \"OLS-5, Open Science Writing Guide\".",
+        "description": "Have you applied to OLS before, or are you applying as an author on more than one project in this round of applications? If yes, please share the project name and which round(s) you applied to OLS in, e.g. \"OLS-1, Open Science Writing Guide\".",
         "order": 18,
         "value-regex": "[\\S\\s]{1,5000}",
         "required": true
