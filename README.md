@@ -2,7 +2,7 @@
 
 Application for Open Life Science's sixth cohort, OLS-7, is Open. 
 
-The Application deadline is 11 January 2023. 
+The Application deadline is 20 January 2023. (extended from 15 Jan).
 This is a hard deadline and we will not to extending it due to tight timeline for review and selection. 
 Please get in touch with the [OLS team](mailto:team@openlifesci.org) if you have concerns regarding this deadline or may need some support.
 
@@ -28,7 +28,7 @@ Please right click to save/download the file format of your choice.
 ## Step 3: Submit your application via the Open Review form
 
 - Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2023/Cohort_7
-- Click the “Open Life Science 2022 Cohort Submission” link
+- Click the “Open Life Science 2023 Cohort Submission” link
 - Transfer the content from your draft application to the Open Review form 
 - When you’re ready, click “submit” 
 
