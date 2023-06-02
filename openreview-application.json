@@ -2,8 +2,8 @@
 ----
 * Homepage Override:
 {
-    "title": "Open Life Science 2022",
-    "subtitle": "Call for application to join the fourth cohort of Open Life Science, OLS-7",
+    "title": "OLS Open Seeds",
+    "subtitle": "Call for application to join the next cohort of OLS Open Seeds",
     "location": "Online",
     "deadline": "Submission Deadline: January 11, 2023 11:59pm AOE",
     "website": "https://openlifesci.org/",
@@ -13,158 +13,260 @@
 Additional Submission Options:
 {
     "title": {
-        "description": "Project Name. Please note that your project doesn’t have to be technical — it can be a curriculum (open educational resource), an open data project, documentation or report, an open source software project, open publication, community building, team culture movements, or anything else that supports openness in research communities, have something to work on (a feature, module, or minimum viable product) during the program and allows and welcomes contributions by others. Whether your project is just an idea at this stage or something that’s been running for years, all applications are welcome.",
-        "order": 1,
-        "value-regex": ".{1,250}",
-        "required": true
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": ".{1,250}"
+            }
+        },
+        "description": "Project Name. Please note that your project doesn't have to be technical — it can be a curriculum (open educational resource), an open data project, documentation or report, an open source software project, open publication, community building, team culture movements, or anything else that supports openness in research communities, have something to work on (a feature, module, or minimum viable product) during the program and allows and welcomes contributions by others. Whether your project is just an idea at this stage or something that’s been running for years, all applications are welcome.",
+        "order": 1
     },
-    "TL;DR": {
-        "description": "\"Too Long; Didn't Read\": a short sentence describing your proposal",
-        "order": 2,
-        "value-regex": "[^\\n]{0,250}",
-        "required": false
+    "TLDR": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[^\\n]{0,250}"
+            }
+        },
+        "description": "\"Too Long, Didn't Read\": a short sentence describing your proposal",
+        "order": 2
     },
     "authors": {
+        "value": {
+            "param": {
+                "type": "string[]",
+                "regex": "[^;,\\n]+(,[^,\\n]+)*",
+                "hidden": true
+            }
+        },
         "description": "Comma separated list of author names.",
-        "order": 3,
-        "values-regex": "[^;,\\n]+(,[^,\\n]+)*",
-        "required": true,
-        "hidden": true
+        "order": 3
     },
     "authorids": {
+        "value": {
+            "param": {
+                "type": "group[]",
+                "regex": "~.*|([a-z0-9_\\-\\.]{1,}@[a-z0-9_\\-\\.]{2,}\\.[a-z]{2,},){0,}([a-z0-9_\\-\\.]{1,}@[a-z0-9_\\-\\.]{2,}\\.[a-z]{2,})"
+            }
+        },
         "description": "Search author profile by first, middle and last name or email address. If the profile is not found, you can add the author by completing first, middle, and last names as well as the author email address.",
-        "order": 4,
-        "values-regex": "~.*|([a-z0-9_\\-\\.]{1,}@[a-z0-9_\\-\\.]{2,}\\.[a-z]{2,},){0,}([a-z0-9_\\-\\.]{1,}@[a-z0-9_\\-\\.]{2,}\\.[a-z]{2,})",
-        "required": true
+        "order": 4
     },
     "country": {
-        "order": 5,
-        "value-regex": ".{1,500}",
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": ".{1,500}",
+                "markdown": true
+            }
+        },
         "description": "Country of residence. Comma-separated list of countries, if different for different authors.",
-        "required": true,
-        "markdown": true
+        "order": 5
     },
     "affiliation": {
-        "order": 6,
-        "value-regex": ".{1,500}",
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": ".{1,500}",
+                "markdown": true
+            }
+        },
         "description": "Please provide the affiliation under which your project will be developed. For independent research please use - Independent. Comma-separated list of affiliation, if different for different authors.",
-        "required": true,
-        "markdown": true
+        "order": 6
     },
     "pronouns": {
-        "order": 7,
-        "value-regex": ".{1,500}",
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": ".{1,500}",
+                "markdown": true,
+                "optional": true
+            }
+        },
         "description": "Please share preferred pronouns (optional). Comma-separated list of pronouns, if different for different authors.",
-        "required": false,
-        "markdown": true
+        "order": 7
     },
     "keywords": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "(^$)|[^;,\\n]+(,[^,\\n]+)*"
+            }
+        },
         "description": "Comma-separated list of keywords that best describe the research and interest areas of your project.",
-        "order": 8,
-        "values-regex": "(^$)|[^;,\\n]+(,[^,\\n]+)*"
+        "order": 8
     },
     "project": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}",
+                "markdown": true
+            }
+        },
         "description": "Describe your project in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
-        "order": 9,
-        "value-regex": "[\\S\\s]{1,5000}",
-        "required": true,
-        "markdown": true
+        "order": 9
     },
     "problem": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}",
+                "markdown": true
+            }
+        },
         "description": "What problem(s) are you solving with this project? Please describe in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
-        "order": 10,
-        "value-regex": "[\\S\\s]{1,5000}",
-        "required": true,
-        "markdown": true
+        "order": 10
     },
     "achievements": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}",
+                "markdown": true
+            }
+        },
         "description": "What concrete achievements do you want to accomplish during your participation in the OLS program? Please describe in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
-        "order": 11,
-        "value-regex": "[\\S\\s]{1,5000}",
-        "required": true,
-        "markdown": true
+        "order": 11
     },
     "status": {
+        "value": {
+            "param": {
+                "type": "string",
+                "enum": [
+                    "I have a great idea",
+                    "Working towards a first prototype",
+                    "Just launched first prototype",
+                    "Working on new release/feature on an existing prototype",
+                    "Maintaining work on an existing prototype"
+                ],
+                "input": "checkbox"
+            }
+        },
         "description": "What is the current status of your project or work?",
-        "value-radio": [
-            "I have a great idea",
-            "Working towards a first prototype",
-            "Just launched first prototype",
-            "Working on new release/feature on an existing prototype",
-            "Maintaining work on an existing prototype"
-        ],
-        "order": 12,
-        "required": true
+        "order": 12
     },
     "goal": {
+        "value": {
+            "param": {
+                "type": "string",
+                "enum": [
+                    "I have a great idea",
+                    "Working towards a first prototype",
+                    "Just launched first prototype",
+                    "Working on new release/feature on an existing prototype",
+                    "Maintaining work on an existing prototype"
+                ],
+                "input": "checkbox"
+            }
+        },
         "description": "Where would you like to be after your participation in the OLS program?",
-        "value-radio": [
-            "I have a great idea",
-            "Working towards a first prototype",
-            "Just launched first prototype",
-            "Working on new release/feature on an existing prototype",
-            "Maintaining work on an existing prototype"
-        ],
-        "order": 13,
-        "required": true
+        "order": 13
     },
     "open": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}",
+                "markdown": true
+            }
+        },
         "description": "What inspires you to work openly in research? Please respond in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
-        "order": 14,
-        "value-regex": "[\\S\\s]{1,5000}",
-        "required": true,
-        "markdown": true
+        "order": 14
     },
     "challenges": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}",
+                "markdown": true
+            }
+        },
         "description": "What challenges have you faced in working in open science? Please respond in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
-        "order": 15,
-        "value-regex": "[\\S\\s]{1,5000}",
-        "required": true,
-        "markdown": true
+        "order": 15
     },
     "learning": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}",
+                "markdown": true
+            }
+        },
         "description": "What are your learning goals in the Open Life Science program? Please respond in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
-        "order": 16,
-        "value-regex": "[\\S\\s]{1,5000}",
-        "required": true,
-        "markdown": true
+        "order": 16
+    },
+    "community": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}",
+                "markdown": true
+            }
+        },
+        "description": "What community/communities are you working with or have worked with in the past? Please note this could be any type of community in the context of academia, research, industry or something in your neighbourhood. Tell us about your experience working with this community, such as the nature of your involvement and aspects of community participation you liked or disliked. If you haven't worked with any community before, tell us why you are interest in being part of our diverse community. Please respond in a maximum of 250 words.",
+        "order": 17
     },
     "mentor": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}",
+                "markdown": true
+            }
+        },
         "description": "What do you expect from a mentor? Please respond in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).",
-        "order": 17,
-        "value-regex": "[\\S\\s]{1,5000}",
-        "required": true,
-        "markdown": true
+        "order": 18
     },
     "previous-applications": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}"
+            }
+        },
         "description": "Have you applied to OLS before, or are you applying as an author on more than one project in this round of applications? If yes, please share the project name and which round(s) you applied to OLS in, e.g. \"OLS-1, Open Science Writing Guide\".",
-        "order": 18,
-        "value-regex": "[\\S\\s]{1,5000}",
-        "required": true
+        "order": 19
     },
     "accessibility": {
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}"
+            }
+        },
         "description": "The OLS team aims to create as inclusive an environment as possible for everyone. To help us prepare effectively, please let us know if there is anything we can do to facilitate your participation. This might include sign interpreters for video calls, alternative format materials, or something else. We will provide real-time captioning using otter.ai and/or Google Slides by default. This information will not be shared with application reviewers, and will not affect whether or not you are accepted to the program.",
-        "order": 19,
-        "value-regex": "[\\S\\s]{1,5000}",
-        "required": true
+        "order": 20
     },
     "language": {
-        "description": "What language do you prefer for your communication during the mentoring calls?",
-        "order": 20,
-        "value-regex": "[\\S\\s]{1,5000}",
-        "required": true
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}"
+            }
+        },
+        "description": "What language do you prefer for your communication during the mentoring calls? We will try to pair you with a mentor who can interact in your primary language if available in our mentor community.",
+        "order": 21
     },
-    "scheme": {
+    "membership": {
+        "value": {
+            "param": {
+                "type": "string",
+                "enum": [
+                    "EOSC-Life/ELIXIR",
+                    "The Turing Way/The Alan Turing Institute",
+                    "TU Delft",
+                    "VU Amsterdam",
+                    "Software Sustainability Institute",
+                    "Chan Zuckerberg Initiative grantee",
+                    "Not sure",
+                    "None"
+                ],
+                "input": "checkbox"
+            }
+        },
         "description": "Are you affiliated with or funded by any of these organisations?",
-        "value-radio": [
-            "EOSC-Life/ELIXIR",
-            "The Turing Way/The Alan Turing Institute",
-            "TU Delft",
-            "Chan Zuckerberg Initiative grantee",
-            "Not sure",
-            "None"
-        ],
-        "order": 21,
-        "required": true
+        "order": 22
     }
 }
