@@ -1,16 +1,14 @@
 # OLS Application Guidelines
 
-Application for Open Life Science's sixth cohort, OLS-7, is Open. 
+Applications for OLS Open Seeds 
 
-The Application deadline is 20 January 2023. (extended from 15 Jan).
-This is a hard deadline and we will not to extending it due to tight timeline for review and selection. 
+The Application deadline is July 7 2023.
+
 Please get in touch with the [OLS team](mailto:team@openlifesci.org) if you have concerns regarding this deadline or may need some support.
-
-*For any further questions, please email: [team@openlifesci.org](mailto:team@openlifesci.org).*
 
 ## Step 1: Register in Open Review
 
-- Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2023/Cohort_7 
+- Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2023/Cohort_8
 - Please **create your profile minimum 5 days before the application deadline**. For any technical problem, please reach out to the [OLS team](mailto:team@openlifesci.org).
 - Add your name and email to receive a confirmation email and click the confirmation link sent to your email
 - Set up your profile by adding the following minimum information: (i) Personal link (Add any one link from Twitter/GitHub/Website), (ii) Your current position, start date (skip the end date to indicate your present role), (iii) Institute domain (like “openlifesci.org”), and (iv) Your institution name. You can optionally add other details, but they are not necessary for your application 
@@ -27,8 +25,8 @@ Please right click to save/download the file format of your choice.
 
 ## Step 3: Submit your application via the Open Review form
 
-- Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2023/Cohort_7
-- Click the “Open Life Science 2023 Cohort Submission” link
+- Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2023/Cohort_8
+- Click the “OLS Open Seeds Cohort Submission” link
 - Transfer the content from your draft application to the Open Review form 
 - When you’re ready, click “submit” 
 
