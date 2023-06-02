@@ -1,4 +1,4 @@
-### **Call for application to join the next cohort of Open Life Science**
+### **Call for application to join the next cohort of OLS Open Seeds**
 
 _For any further questions, please email: [team@openlifesci.org](mailto:team@openlifesci.org)**.**_
 
@@ -116,6 +116,10 @@ _What are your learning goals in the Open Life Science program? Please respond i
 
 <your answer>
 
+***Community***
+_What community are you working with (or have worked with in the past)? And what is your experience working with this community? (Please note this could be any type of community, from an academic one to a neighborhood one.) What role or roles have you had as part of this community? And what have you liked and disliked about the process? If you haven't worked with any community, tell us what interests you about being part of a community. (Up to 600 words). You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
+<your answer>
+
 ***Mentor**
 
 _What do you expect from a mentor? Please respond in a maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
@@ -148,6 +152,7 @@ _Are you affiliated with or funded by any of these organisations?_ **Choose one 
 * EOSC-Life/ELIXIR
 * The Turing Way/The Alan Turing Institute
 * TU Delft
+* VU Amsterdam
 * Chan Zuckerberg Initiative grantee
 * Not sure
 * None
@@ -155,11 +160,11 @@ _Are you affiliated with or funded by any of these organisations?_ **Choose one 
 
 ## **Step 3: Submit your application via the Open Review form**
 
-1. Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2023/Cohort_7
-2. Click the “**Open Life Science 2021 Cohort Submission**” link
+1. Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2023/Cohort_8
+2. Click the “**OLS Open Seeds Cohort Submission**” link
 3. Transfer the content from your draft application to the Open Review form
 4. When you’re ready, click “**submit**”!
 
 **All the best from the OLS team!**
 
-_License: CC BY 4.0, Open Life Science (OLS-5), 2023_
+_License: CC BY 4.0, OLS, 2023_

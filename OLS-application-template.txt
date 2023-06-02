@@ -1,19 +1,19 @@
-Open Life Science - Upcoming Cohort
+OLS Open Seeds - Upcoming Cohort
 http://openlifesci.org
 --
 
-OLS Application Guide
+OLS Open Seeds Application Guide
 
-Call for application to join the next cohort of Open Life Science
+Call for application to join the next cohort of OLS Open Seeds
 For any further questions, please email: team@openlifesci.org.
 
 
 Table of Content
 
 
-Step 1: Register in Open Review        1
-Step 2: Template to prepare your application draft        2
-Step 3: Submit your application via the Open Review form        7
+Step 1: Register in Open Review        
+Step 2: Template to prepare your application draft        
+Step 3: Submit your application via the Open Review form        
 
 --
 Step 1: Register in Open Review
@@ -29,7 +29,7 @@ Please create your profile minimum 5 days before the application deadline so any
    5. You will receive an email saying “Your OpenReview profile has been successfully created. Please allow up to 12 hours before the profile is activated.” (it takes only a few hours before a profile is activated)
    6. While you wait for a confirmation, you can start drafting your application locally using the template provided below
 Step 2: Template to prepare your application draft
-Submission Deadline: January 15, 2022 11:59pm AOE, * denotes a required field
+Submission Deadline: See Openreview for the exact date.  * denotes a required field
 *Title
 Project Name. Please note that your project doesn’t have to be technical — it can be a curriculum (open educational resource), an open data project, documentation or report, an open source software project, open publication, community building, team culture movements, or anything else that supports openness in research communities, have something to work on (a feature, module, or minimum viable product) during the program and allows and welcomes contributions by others. Whether your project is just an idea at this stage or something that’s been running for years, all applications are welcome.
 <your answer>
@@ -114,6 +114,9 @@ What challenges have you faced in working in open science? Please respond in a m
 What are your learning goals in the Open Life Science program? Please respond in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).
 <your answer>
 
+*Community
+What community are you working with (or have worked with in the past)? And what is your experience working with this community? (Please note this could be any type of community, from an academic one to a neighborhood one.) What role or roles have you had as part of this community? And what have you liked and disliked about the process? If you haven't worked with any community, tell us what interests you about being part of a community. (Up to 600 words)
+<your answer>
 
 *Mentor
 What do you expect from a mentor? Please respond in a maximum of 200 words. You can use MarkDown formatting (see: https://commonmark.org/help/).
@@ -140,17 +143,18 @@ Are you affiliated with or funded by any of these organisations? Choose one opti
    * EOSC-Life/ELIXIR
    * The Turing Way/The Alan Turing Institute
    * TU Delft - Faculty of Applied Sciences
+   * VU Amsterdam
    * Chan Zuckerberg Initiative
    * Not sure
    * None
 
 
 Step 3: Submit your application via the Open Review form
-   1. Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2023/Cohort_7
-   2. Click the “Open Life Science 2022 Cohort Submission” link
+   1. Visit the submission page: https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2023/Cohort_8
+   2. Click the “OLS - Open Seeds Cohort Submission” link
    3. Transfer the content from your draft application to the Open Review form
    4. When you’re ready, click “submit”
 
 All the best from the OLS team!
 
-License: CC BY 4.0, Open Life Science (OLS), 2023
+License: CC BY 4.0, OLS, 2023
