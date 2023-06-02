@@ -117,7 +117,7 @@ _What are your learning goals in the Open Life Science program? Please respond i
 <your answer>
 
 ***Community***
-_What community are you working with (or have worked with in the past)? And what is your experience working with this community? (Please note this could be any type of community, from an academic one to a neighborhood one.) What role or roles have you had as part of this community? And what have you liked and disliked about the process? If you haven't worked with any community, tell us what interests you about being part of a community. (Up to 600 words). You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
+_What community/communities are you working with or have worked with in the past? Please note this could be any type of community in the context of academia, research, industry or something in your neighbourhood. Tell us about your experience working with this community, such as the nature of your involvement and aspects of community participation you liked or disliked. If you haven't worked with any community before, tell us why you are interest in being part of our diverse community. Please respond in a maximum of 250 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
 <your answer>
 
 ***Mentor**
