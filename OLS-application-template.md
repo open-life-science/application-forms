@@ -62,19 +62,19 @@ _Comma-separated list of keywords that best describe the research and interest a
 
 ***Project**
 
-_Describe your project in a maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
+_Describe your project in a minumum of 100 words (2-3 sentences) and maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
 
 <your answer>
 
 ***Problem**
 
-_What problem(s) are you solving with this project? Please describe in a maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
+_What problem(s) are you solving with this project? Please describe in a minumum of 100 words (2-3 sentences) and maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
 
 <your answer>
 
 ***Achievements**
 
-_What concrete achievements do you want to accomplish during the OLS program? Please describe in a maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
+_What concrete achievements do you want to accomplish during the OLS program? Please describe in a minumum of 100 words (2-3 sentences) and maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
 
 <your answer>
 
@@ -100,29 +100,29 @@ _Where would you like to be after the OLS program? **Choose one option**_
 
 ***Open**
 
-_What inspires you to work openly in research? Please respond in a maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
+_What inspires you to work openly in research? Please respond in a minumum of 100 words (2-3 sentences) and maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
 
 <your answer>
 
 ***Challenges**
 
-_What challenges have you faced in working in open science? Please respond in a maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
+_What challenges have you faced in working in open science? Please respond in a minumum of 100 words (2-3 sentences) and maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
 
 <your answer>
 
 ***Learning**
 
-_What are your learning goals in the Open Life Science program? Please respond in a maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
+_What are your learning goals in the Open Life Science program? Please respond in a minumum of 100 words (2-3 sentences) and maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
 
 <your answer>
 
 ***Community***
-_What community/communities are you working with or have worked with in the past? Please note this could be any type of community in the context of academia, research, industry or something in your neighbourhood. Tell us about your experience working with this community, such as the nature of your involvement and aspects of community participation you liked or disliked. If you haven't worked with any community before, tell us why you are interest in being part of our diverse community. Please respond in a maximum of 250 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
+_What community/communities are you working with or have worked with in the past? Please note this could be any type of community in the context of academia, research, industry or something in your neighbourhood. Tell us about your experience working with this community, such as the nature of your involvement and aspects of community participation you liked or disliked. If you haven't worked with any community before, tell us why you are interested in being part of our diverse community. Please respond in a minumum of 100 words (2-3 sentences) and maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
 <your answer>
 
 ***Mentor**
 
-_What do you expect from a mentor? Please respond in a maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
+_What do you expect from a mentor? Please respond in a minumum of 100 words (2-3 sentences) and maximum of 200 words. You can use MarkDown formatting (see:[ https://commonmark.org/help/](https://commonmark.org/help/))._
 
 <your answer>
 
