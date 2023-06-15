@@ -18,10 +18,10 @@ Please get in touch with the [OLS team](mailto:team@openlifesci.org) if you have
 
 While you wait for a confirmation, prepare your application draft locally using the template provided below
 Please right click to save/download the file format of your choice.
-- [MarkDown template to download](https://github.com/open-life-science/application-forms/raw/master/OLS-application-template.md) or [copy the raw file](https://raw.githubusercontent.com/open-life-science/application-forms/master/OLS-application-template.md) and work on [HackMD for free](https://hackmd.io/)
-- [DOCX template](https://github.com/open-life-science/application-forms/raw/master/OLS-application-template.docx)
-- [ODT template](https://github.com/open-life-science/application-forms/raw/master/OLS-application-template.odt)
-- [Plain Text template](https://github.com/open-life-science/application-forms/raw/master/OLS-application-template.txt)
+- [MarkDown template to download](https://github.com/open-life-science/application-forms/blob/39a2797cf5dc02a12e8b435c73f6caee4ace300e/OLS-application-template.md) or [copy the raw file](https://raw.githubusercontent.com/open-life-science/application-forms/39a2797cf5dc02a12e8b435c73f6caee4ace300e/OLS-application-template.md) and work on [HackMD for free](https://hackmd.io/)
+- [DOCX template](https://github.com/open-life-science/application-forms/raw/main/OLS-application-template.docx)
+- [ODT template](https://github.com/open-life-science/application-forms/raw/main/OLS-application-template.odt)
+- [Plain Text template](https://github.com/open-life-science/application-forms/blob/main/OLS-application-template.txt)
 
 ## Step 3: Submit your application via the Open Review form
 
