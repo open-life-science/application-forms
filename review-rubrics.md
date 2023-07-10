@@ -81,7 +81,7 @@
 
 *Would you like to mentor this project if they are the right match for you and if the candidate is accepted to participate in OLS?*
 1. Top preference
-2. 2. Second preference
+2. Second preference
 3. Third preference
 
 #### Summary
