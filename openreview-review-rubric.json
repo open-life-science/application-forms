@@ -7,77 +7,142 @@ Additional Review Form Options:
 
 {
     "rubric": {
-        "order": 1,
-        "description": "Review of all applications will be scored between 1 and 3 for 'Readiness' for the program, 'Goals' of their projects, 'Openness' in the context of Open Science and 'Willingness'  to Learn: Applicants who mostly score 1s are not ready for the program and may not understand the work, the overall goals of Open Science and openness in general, how openness promotes community engagement, or how to be while learning in the community or through mentorship. Applicants who score 2s are enthusiastic if not wholly ready for the work, have a personal or professional goal to be more open (in general) and are ready to learn about Open Science from experts, mentors, and peers alike. Applicants who score 3s are clearly ready, goal-oriented, interested in applying Open Science to their work, and excited to learn from experts, mentors, and peers alike. Please check 'I understand' to proceed.",
-        "value-radio": "I understand",
-        "required": true
+        "value": {
+            "param": {
+                "type": "string",
+                "enum": [
+                    "I understand"
+                ],
+                "input": "radio"
+            }
+        },
+        "description": "Review of all applications will be scored between 1 and 3 for 'Readiness' for the program, 'Goals' of the projects, 'Openness' in the context of Open Science and 'Willingness'  to learn. Applicants who mostly score 1s are not ready for the program and may not understand the work, the overall goals of Open Science and openness in general, how openness promotes community engagement, or how to be while learning in the community or through mentorship. Applicants who score 2s are enthusiastic if not wholly ready for the work, have a personal or professional goal to be more open (in general) and are ready to learn about Open Science from experts, mentors, and peers alike. Applicants who score 3s are ready, goal-oriented, interested in applying Open Science to their work, and excited to learn from experts, mentors, and peers alike. Please check 'I understand' to proceed.",
+        "order": 1
     },
     "project": {
-        "order": 2,
-        "value-regex": ".{1,250}",
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": ".{1,250}"
+            }
+        },
         "description": "Project title as provided by the applicants.",
-        "required": true,
-        "markdown": true
+        "order": 2
     },
     "readiness": {
-        "order": 3,
-        "value-dropdown": [
-            "1 (not ready): Does not provide enough information or seems to misunderstand the nature of the program or of Open Science, in general",
-            "2 (enthusiastic): Seems to have a clear understanding of the program and brings along a specific project or idea for one",
-            "3 (clear) Seems to have a clear understanding of the program and a clear understanding of how it might help open their work in academia"
-        ],
-        "required": true
+        "value": {
+            "param": {
+                "type": "string",
+                "enum": [
+                    "1 (not ready): Does not provide enough information or seems to misunderstand the nature of the program or Open Science, in general",
+                    "2 (enthusiastic): Seems to have a clear understanding of the program and brings along a specific project or idea for one",
+                    "3 (clear) Seems to have a clear understanding of the program and a clear understanding of how it might help open their work in academia"
+                ],
+                "input": "radio"
+            }
+        },
+        "description": "Are the candidate and their project ready for the OLS training and mentoring?",
+        "order": 3
     },
     "goals": {
-        "order": 4,
-        "value-dropdown": [
-            "1 (not ready): Shares vague or general goals, goals that are unrelated to Open Science, or no goals at all",
-            "2 (enthusiastic): Shares clear, overly ambitious goals related to Open Science that can likely be managed and revised during the program",
-            "3 (clear): Shares clear, achievable goals related to Open Science that fit the program and are likely to be met through the applicant’s participation"
-        ],
-        "required": true
+        "value": {
+            "param": {
+                "type": "string",
+                "enum": [
+                    "1 (not ready): Shares vague or general goals, goals that are unrelated to Open Science, or no goals at all",
+                    "2 (enthusiastic): Shares clear, overly ambitious goals related to Open Science that can likely be managed and revised during the program",
+                    "3 (clear): Shares clear, achievable goals related to Open Science that fit the program and are likely to be met through the applicant’s participation"
+                ],
+                "input": "radio"
+            }
+        },
+        "description": "Has the candidate clearly defined some goals in their project and from their participation in OLS?",
+        "order": 4
     },
     "openness": {
-        "order": 5,
-        "value-dropdown": [
-            "1 (not ready) Does not provide enough information or seems to misunderstand the nature of the program or of Open Science, in general",
-            "2 (enthusiastic) Seems to have a clear understanding of the program and brings along a specific project or idea for one",
-            "3 (clear) Seems to have a clear understanding of the program and a clear understanding of how it might help open their work in academia"
-        ],
-        "required": true
+        "value": {
+            "param": {
+                "type": "string",
+                "enum": [
+                    "1 ((not ready) Goals and purposes for the program seem almost entirely self-centred and about the applicant’s status, rather than about opening their community or project.",
+                    "2 (enthusiastic) Goals and purposes for the program address openness, but in a general or limited way, like creating an openly licensed product instead of building an open community of contribution",
+                    "3 (clear) Goals and purposes for the program address openness in many ways and are likely to help the applicant empower others to work open and become open leaders in their rights."
+                ],
+                "input": "radio"
+            }
+        },
+        "description": "Is the candidate keen to learn and apply open science practices, both technically and through the involvement from an open community?",
+        "order": 5
     },
     "willingness": {
-        "order": 6,
-        "value-dropdown": [
-            "1 (not ready) Seems closed to new ways of working or more interested in open-washing a publication or project than in learning about working Open Science",
-            "2 (enthusiastic) Seems excited to learn about working open in science, but in a general way without much understanding of what those things mean yet",
-            "3 (clear) Seems excited to learn about working open and joining the Open Science movement to join and advocate the Open Science movement"
-        ],
-        "required": true
+        "value": {
+            "param": {
+                "type": "string",
+                "enum": [
+                    "1 (not ready) Seems closed to new ways of working or more interested in open-washing a publication or project than in learning about working Open Science",
+                    "2 (enthusiastic) Seems excited to learn about working open in science, but in a general way without much understanding of what those things mean yet",
+                    "3 (clear) Seems excited to learn about working open and joining the Open Science movement to join and advocate the Open Science movement"
+                ],
+                "input": "radio"
+            }
+        },
+        "description": "Is the candidate willing to practice open science in and beyond their work in OLS?",
+        "order": 6
+    },
+    "community": {
+        "value": {
+            "param": {
+                "type": "string",
+                "enum": [
+                    "1 (not ready) Seem not to have an understanding for what working with a diverse community in open science may entail",
+                    "2 (enthusiastic) Seems excited to learn about working with the community, but in a general way without much understanding of what considerations for EDI may involve",
+                    "3 (clear) Seems excited to learn about working with the community and bring a sufficient commitment to and/or understanding of EDIA concerns"
+                ],
+                "input": "radio"
+            }
+        },
+        "description": "Does the candidate have an understanding of working with an open science community? In their response have they shown their commitment to or understanding of Equity, Diversity, Inclusion and Accessibility (EDIA) aspects that they could draw from when working with diverse communities as OLS?",
+        "order": 7
     },
     "recommendation": {
-        "order": 7,
-        "value-dropdown": [
-            "Yes: I would like to recommend this application for the upcoming Open Life Science cohort",
-            "No: I would not like to recommend this application for the upcoming Open Life Science cohort",
-            "Unsure: I can not make an informed recommendation for this application"
-        ],
-        "required": true
+        "value": {
+            "param": {
+                "type": "string",
+                "enum": [
+                    "Yes: I would like to recommend this application",
+                    "No: I would not like to recommend this application",
+                    "Unsure: I can not make an informed recommendation for this application"
+                ],
+                "input": "radio"
+            }
+        },
+        "description": "Would you recommend this applicant and their project for their participation in the upcoming Open Seed OLS cohort?",
+        "order": 8
     },
     "mentoring": {
-        "order": 8,
-        "description": "If you recommend this application, would you be willing to mentor this applicant for the next Open Life Science cohort? Please add ranking based on preference between 1 and 3, where 1 is the top preference.",
-        "value-dropdown": [
-            "1: Top preference",
-            "2: Second preference",
-            "3: Third preference"
-        ],
-        "required": false
+        "value": {
+            "param": {
+                "type": "string",
+                "enum": [
+                    "1: Top preference",
+                    "2: Second preference",
+                    "3: Third preference"
+                ],
+                "input": "radio"
+            }
+        },
+        "description": "Would you like to mentor this project if they are the right match for you and if the candidate is accepted to participate in OLS?",
+        "order": 9
     },
     "Summary": {
-        "order": 9,
-        "description": "A short sentence capturing insights from your review of this application. This will particularly help OLS team and potential mentors choosing this applicant if you would recommend this application, but are not willing to mentor this applicant.",
-        "value-regex": "[^\\n]{0,250}",
-        "required": false
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": "[\\S\\s]{1,1000}",
+                "markdown": true
+            }
+        },
+        "description": "Please provide a short sentence capturing the main theme from this project and insights from your review of this application. This will particularly help the OLS team and potential mentors choosing this application if you would recommend this application, but are not willing to mentor this applicant.",
+        "order": 10
     }
 }
