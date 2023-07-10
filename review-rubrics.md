@@ -65,9 +65,9 @@
 
 *Does the candidate have an understanding of working with an open science community? In their response have they shown their commitment to or understanding of Equity, Diversity, Inclusion and Accessibility (EDIA) aspects that they could draw from when working with diverse communities as OLS?*
 
-1. (not ready) Seem not to have an understanding of what working with a diverse community in open science may entail"
-2. (enthusiastic) Seems excited to learn about working with the community, but in a general way without much understanding of what considerations for EDI may involve"
-3. (clear) Seems excited to learn about working with the community and bring a sufficient commitment to and/or understanding of EDIA concerns"
+1. (not ready) Seem not to have an understanding of what working with a diverse community in open science may entail
+2. (enthusiastic) Seems excited to learn about working with the community, but in a general way without much understanding of what considerations for EDI may involve
+3. (clear) Seems excited to learn about working with the community and bring a commitment to and/or understanding of EDIA concerns
 
 ### Recommendation
 
